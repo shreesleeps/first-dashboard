@@ -1,0 +1,7 @@
+export const ACTION_1 = "ACTION_1";
+
+export const ACTION_2 = "ACTION_2";
+//
+
+export const INSTALLED_APPS_NEXT_PAGE = "INSTALLED_APPS_NEXT_PAGE";
+export const INSTALLED_APPS_PREV_PAGE = "INSTALLED_APPS_PREV_PAGE";
